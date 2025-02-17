@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ibm-cloud/watsonx-ai": "^1.5.0",
+    "bee-agent-framework": "^0.1.1",
+    "dotenv": "^16.4.7",
+    "ts-node": "^10.9.2",
+    "express": "^4.21.2",
+    "@zilliz/milvus2-sdk-node": "^2.5.5",
+    "@googleapis/customsearch": "^3.2.0"
+  }
+}
